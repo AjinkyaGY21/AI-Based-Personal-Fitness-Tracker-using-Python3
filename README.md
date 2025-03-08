@@ -32,13 +32,23 @@ The application works with two primary datasets:
 1. **calories.csv** 🔥
    - User demographics and fitness stats.
    - Calories burned during various activities.
+     
 2. **exercise.csv** 🏃
    - Exercise duration, heart rate, body temperature, etc.
-
+     
 📌 The ML model learns from these datasets to make personalized fitness predictions.
 
----
+## 📥 Dataset Download Links
 
+Get started with the sample datasets:
+
+- 🔥 **[calories.csv](https://www.kaggle.com/code/emdemor/predicting-burned-calories-on-workout?select=calories.csv)** - Calorie burning data
+  
+- 🏃 **[exercise.csv](https://www.kaggle.com/code/emdemor/predicting-burned-calories-on-workout?select=exercise.csv)** - Exercise metrics data
+
+⚠️ **Note**: You'll need a Kaggle account to download these datasets.
+
+---
 ## 📸 Screenshots
 
 🚀 *Coming Soon...*
