@@ -42,9 +42,9 @@ The application works with two primary datasets:
 
 Get started with the sample datasets:
 
-- 🔥 **[calories.csv](https://www.kaggle.com/code/emdemor/predicting-burned-calories-on-workout?select=calories.csv)** - Calorie burning data
+- 🔥 **[calories.csv](https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos?select=calories.csv)** - Calorie burning data
   
-- 🏃 **[exercise.csv](https://www.kaggle.com/code/emdemor/predicting-burned-calories-on-workout?select=exercise.csv)** - Exercise metrics data
+- 🏃 **[exercise.csv](https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos?select=exercise.csv)** - Exercise metrics data
 
 ⚠️ **Note**: You'll need a Kaggle account to download these datasets.
 
