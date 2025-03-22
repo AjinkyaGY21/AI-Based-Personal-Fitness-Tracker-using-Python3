@@ -1,7 +1,8 @@
-
-# 🏋️‍♂️ Personal Fitness Tracker
+# 🏋o️‍♂️ Personal Fitness Tracker
 
 📌 **An interactive fitness tracking application using Python, Streamlit, and Machine Learning.**
+
+🔗 **Live Demo**: [AI-Based Personal Fitness Tracker](https://ai-based-personal-fitness-tracker-using-python3-ajinkyagy21.streamlit.app/)
 
 ---
 
@@ -17,28 +18,28 @@
 
 ## 🛠️ Tech Stack
 
-- **Python** 🐍
-- **Streamlit** 🎨 (UI Framework)
-- **Scikit-Learn** 🤖 (ML Models)
-- **Pandas & NumPy** 🏗️ (Data Processing)
-- **Plotly** 📊 (Visualizations)
+- **Python** 🐍  
+- **Streamlit** 🎨 (UI Framework)  
+- **Scikit-Learn** 🤖 (ML Models)  
+- **Pandas & NumPy** 🏩 (Data Processing)  
+- **Plotly** 📊 (Visualizations)  
 
 ---
 
-## 📂 Dataset Overview
+## 💂 Dataset Overview
 
 The application works with two primary datasets:
 
-1. **calories.csv** 🔥
+1. **calories.csv** 🔥  
    - User demographics and fitness stats.
    - Calories burned during various activities.
      
-2. **exercise.csv** 🏃
+2. **exercise.csv** 🏃  
    - Exercise duration, heart rate, body temperature, etc.
      
 📌 The ML model learns from these datasets to make personalized fitness predictions.
 
-## 📥 Dataset Download Links
+## 💾 Dataset Download Links
 
 Get started with the sample datasets:
 
@@ -77,7 +78,7 @@ Get started with the sample datasets:
 
 ---
 
-## 📈 Model Training (Jupyter Notebook)
+## 📊 Model Training (Jupyter Notebook)
 
 🔍 Train and evaluate ML models in `model_training.ipynb`. The best model is selected based on accuracy and stored for predictions.
 
@@ -92,4 +93,4 @@ Get started with the sample datasets:
 
 ---
 
-🚀 *Let's make fitness smarter with AI!* 🏋️‍♂️
+🚀 *Let's make fitness smarter with AI!* 🏋o️‍♂️
